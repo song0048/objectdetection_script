@@ -1,4 +1,4 @@
-name: D:\OneDrive\Desktop\GitLab\Detect CAM on wire\test\.conda
+name: .\.conda
 channels:
   - conda-forge
   - defaults
